@@ -1,0 +1,23 @@
+{
+  "name": "electron-first-app",
+  "version": "1.0.0",
+  "description": "First app from electron tutorial at https://electronjs.org/docs/tutorial/first-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoralesd/electron-first-app.git"
+  },
+  "keywords": [
+    "electron",
+    "tutorial"
+  ],
+  "author": "smoralesd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smoralesd/electron-first-app/issues"
+  },
+  "homepage": "https://github.com/smoralesd/electron-first-app#readme"
+}
