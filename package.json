@@ -2,9 +2,10 @@
   "name": "electron-first-app",
   "version": "1.0.0",
   "description": "First app from electron tutorial at https://electronjs.org/docs/tutorial/first-app",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
